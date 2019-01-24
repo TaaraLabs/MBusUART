@@ -1,6 +1,6 @@
-MBus UART
-=========
+M-Bus UART
+==========
 
-Simple MBus master to UART converter
+Simple M-Bus (Meter-Bus) master to UART converter
 
 [Official WebSite](https://taaralabs.eu/mu1)
